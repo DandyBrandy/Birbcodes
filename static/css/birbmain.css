@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+}
 .top-buffer {
     margin-top: 10px;
 }
@@ -209,4 +213,87 @@
     background-position: 300px -200px;
 }
 
+#fourhundredtwentyfive {
+    background-image: url("../img/425.jpg");
+    background-position: 300px -200px;
+}
 
+#fourhundredtwentysix {
+    background-image: url("../img/426.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredtwentynine {
+    background-image: url("../img/429.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredthirtyone {
+    background-image: url("../img/431.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredfourtyfour {
+    background-image: url("../img/444.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredfifty {
+    background-image: url("../img/450.jpg");
+    background-position: 500px -200px;
+}
+
+#fourhundredfiftyone {
+     background-image: url("../img/451.jpg");
+     background-position: 500px -200px;
+}
+
+#fivehundred {
+    background-image: url("../img/500.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredtwo {
+    background-image: url("../img/502.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredthree {
+    background-image: url("../img/503.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredfour {
+    background-image: url("../img/504.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredsix {
+    background-image: url("../img/506.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredseven {
+    background-image: url("../img/507.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredeight {
+    background-image: url("../img/508.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundrednine {
+    background-image: url("../img/509.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredeleven {
+    background-image: url("../img/511.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredninetynine {
+    background-image: url("../img/599.jpg");
+    background-position: 500px -200px;
+}

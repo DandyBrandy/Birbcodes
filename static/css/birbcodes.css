@@ -770,6 +770,346 @@ span.imgcode, span.codedescription, span.photocredit {
     top: 650px;
 }
 
+.fourhundredtwentyfive {
+    background-image: url("../img/425.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 595px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredtwentyfivecode {
+    position: relative;
+    top: 850px;
+}
+
+.fourhundredtwentysix {
+    background-image: url("../img/426.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 474px;
+    width: 651px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredtwentysixcode {
+    position: relative;
+    top: 800px;
+}
+
+.fourhundredtwentynine {
+    background-image: url("../img/429.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 480px;
+    width: 640px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredtwentyninecode {
+    position: relative;
+    top: 800px;
+}
+
+.fourhundredthirtyone {
+    background-image: url("../img/431.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 354px;
+    width: 236px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredthirtyonecode {
+    position: relative;
+    top: 750px;
+}
+
+.fourhundredfourtyfour {
+    background-image: url("../img/444.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 552px;
+    width: 812px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredfourtyfourcode {
+    position: relative;
+    top: 850px;
+}
+
+.fourhundredfifty {
+    background-image: url("../img/450.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 479px;
+    width: 720px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredfiftycode {
+    position: relative;
+    top: 800px;
+}
+
+.fourhundredfiftyone {
+    background-image: url("../img/451.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 478px;
+    width: 736px;
+    background-repeat: no-repeat;
+}
+
+.fourhundredfiftyonecode {
+    position: relative;
+    top: 800px;
+}
+
+.fivehundred {
+    background-image: url("../img/500.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 497px;
+    width: 598px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredcode {
+    position: relative;
+    top: 800px;
+}
+
+.fivehundredtwo {
+    background-image: url("../img/502.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 720px;
+    width: 477px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredtwocode {
+    position: relative;
+    top: 900px;
+}
+
+.fivehundredthree {
+    background-image: url("../img/503.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 387px;
+    width: 580px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredthreecode {
+    position: relative;
+    top: 750px;
+}
+
+.fivehundredfour {
+    background-image: url("../img/504.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 764px;
+    width: 972px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredfourcode {
+    position: relative;
+    top: 950px;
+}
+
+.fivehundredsix {
+    background-image: url("../img/506.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 750px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredsixcode {
+    position: relative;
+    top: 950px;
+}
+
+.fivehundredseven {
+    background-image: url("../img/507.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 437px;
+    width: 640px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredsevencode {
+    position: relative;
+    top: 750px;
+}
+
+.fivehundredeight {
+    background-image: url("../img/508.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 628px;
+    width: 628px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredeightcode {
+    position: relative;
+    top: 900px;
+}
+
+.fivehundrednine {
+    background-image: url("../img/509.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 651px;
+    width: 1024px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredninecode {
+    position: relative;
+    top: 900px;
+}
+
+.fivehundredeleven {
+    background-image: url("../img/511.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 639px;
+    width: 1134px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredelevencode {
+    position: relative;
+    top: 900px;
+}
+
+.fivehundredninetynine {
+    background-image: url("../img/599.jpg");
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 373px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+
+.fivehundredninetyninecode {
+    position: relative;
+    top: 750px;
+}
+
 .imgcode {
     color: black;
     font-size: 20px;
