@@ -1,0 +1,299 @@
+body {
+    background-color: black;
+    color: white;
+}
+.top-buffer {
+    margin-top: 10px;
+}
+
+.col-lg-2 {
+    height: 100px;
+}
+
+.image:hover {
+    position: relative;
+    top: -5px;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: beige;
+    font-size: 20px;
+}
+
+#onehundred {
+    background-image: url("../img/100.jpg");
+    background-position: 380px -50px;
+}
+
+#onehundredtwo {
+    background-image: url("../img/101.jpg");
+    background-position: 380px -170px;
+}
+
+#twohundred {
+    background-image: url("../img/200.jpg");
+    background-position: 480px -180px;
+}
+
+#twohundredone {
+    background-image: url("../img/201.jpg");
+    background-position: 350px -80px;
+}
+
+#twohundredtwo {
+    background-image: url("../img/202.jpg");
+    background-position: 500px -40px;
+}
+
+#twohundredfour {
+    background-image: url("../img/204.jpg");
+    background-position: 500px -300px;
+}
+
+#twohundredsix {
+    background-image: url("../img/206.jpg");
+    background-position: 400px -150px;
+}
+
+#twohundredseven {
+    background-image: url("../img/207.jpg");
+    background-position: 500px -220px;
+}
+
+#threehundred {
+    background-image: url("../img/300.jpg");
+    background-position: 430px -220px;
+}
+
+#threehundredone {
+    background-image: url("../img/301.jpg");
+    background-position: 430px -800px;
+}
+
+#threehundredtwo {
+    background-image: url("../img/302.jpg");
+    background-position: 530px -600px;
+}
+
+#threehundredthree {
+    background-image: url("../img/303.jpg");
+    background-position: 530px -300px;
+}
+
+#threehundredfour {
+    background-image: url("../img/304.jpg");
+    background-position: 530px -100px;
+}
+
+#threehundredfive {
+    background-image: url("../img/305.jpg");
+    background-position: 330px -100px;
+}
+
+#threehundredseven {
+    background-image: url("../img/307.jpg");
+    background-position: 530px -100px;
+}
+
+#fourhundred {
+    background-image: url("../img/400.jpg");
+    background-position: 530px -200px;
+}
+
+#fourhundredone {
+    background-image: url("../img/401.jpg");
+    background-position: 530px -200px;
+}
+
+#fourhundredtwo {
+    background-image: url("../img/402.jpg");
+    background-position: -150px -200px;
+}
+
+#fourhundredthree {
+    background-image: url("../img/403.jpg");
+    background-position: 0px -200px;
+}
+
+#fourhundredfour {
+    background-image: url("../img/404.jpg");
+    background-position: 500px -200px;
+}
+
+#fourhundredfive {
+    background-image: url("../img/405.jpg");
+    background-position: 700px -200px;
+}
+
+#fourhundredsix {
+    background-image: url("../img/406.jpg");
+    background-position: 500px -200px;
+}
+
+#fourhundredeight {
+    background-image: url("../img/408.jpg");
+    background-position: 400px -200px;
+}
+
+#fourhundrednine {
+    background-image: url("../img/409.jpg");
+    background-position: 400px -200px;
+}
+
+#fourhundredten {
+    background-image: url("../img/410.jpg");
+    background-position: 400px -200px;
+}
+
+#fourhundredeleven {
+    background-image: url("../img/411.jpg");
+    background-position: 0 -250px;
+}
+
+#fourhundredtwelve {
+    background-image: url("../img/412.jpg");
+    background-position: 0 -250px;
+}
+
+#fourhundredthirteen {
+    background-image: url("../img/413.jpg");
+    background-position: 0 -250px;
+}
+
+#fourhundredfourteen {
+    background-image: url("../img/414.jpg");
+    background-position: -100 -300px;
+}
+
+#fourhundredfifteen {
+    background-image: url("../img/415.jpg");
+    background-position: -100 -300px;
+}
+
+#fourhundredsixteen {
+    background-image: url("../img/416.jpg");
+    background-position: 0 -100px;
+}
+
+#fourhundredseventeen {
+    background-image: url("../img/417.jpg");
+    background-position: 0 -100px;
+}
+
+#fourhundredeighteen {
+    background-image: url("../img/418.jpg");
+    background-position: calc(40% - 50px);
+}
+
+#fourhundredtwenty {
+    background-image: url("../img/420.jpg");
+    background-position: calc(40% - 50px);
+}
+
+#fourhundredtwentyone {
+    background-image: url("../img/421.jpg");
+    background-position: -1100px -50px;
+}
+
+#fourhundredtwentytwo {
+    background-image: url("../img/422.jpg");
+    background-position: 400px -100px;
+}
+
+#fourhundredtwentythree {
+    background-image: url("../img/423.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredtwentyfour {
+    background-image: url("../img/424.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredtwentyfive {
+    background-image: url("../img/425.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredtwentysix {
+    background-image: url("../img/426.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredtwentynine {
+    background-image: url("../img/429.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredthirtyone {
+    background-image: url("../img/431.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredfourtyfour {
+    background-image: url("../img/444.jpg");
+    background-position: 300px -200px;
+}
+
+#fourhundredfifty {
+    background-image: url("../img/450.jpg");
+    background-position: 500px -200px;
+}
+
+#fourhundredfiftyone {
+     background-image: url("../img/451.jpg");
+     background-position: 500px -200px;
+}
+
+#fivehundred {
+    background-image: url("../img/500.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredtwo {
+    background-image: url("../img/502.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredthree {
+    background-image: url("../img/503.jpg");
+    background-position: 500px -200px;
+}
+
+#fivehundredfour {
+    background-image: url("../img/504.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredsix {
+    background-image: url("../img/506.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredseven {
+    background-image: url("../img/507.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredeight {
+    background-image: url("../img/508.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundrednine {
+    background-image: url("../img/509.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredeleven {
+    background-image: url("../img/511.jpg");
+    background-position: 500px -300px;
+}
+
+#fivehundredninetynine {
+    background-image: url("../img/599.jpg");
+    background-position: 500px -200px;
+}
